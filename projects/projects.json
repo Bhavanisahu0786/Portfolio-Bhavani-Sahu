@@ -1,0 +1,51 @@
+[{
+        "name": "Portfolio Website",
+        "desc": "Personal Portfolio Website. Don't Need Much Info About It, Just Scroll Down. You're Here Only!",
+        "image": "portfolio2",
+        "category": "basicweb",
+        "links": {
+            "view": "#",
+            "code": "https://github.com/Bhavanisahu0786/codesoft"
+        }
+    },
+    {
+        "name": "Portfolio Website",
+        "desc": "Personal Portfolio Website. Don't Need Much Info About It, Just Scroll Down. You're Here Only!",
+        "image": "portfolio1",
+        "category": "basicweb",
+        "links": {
+            "view": "#",
+            "code": "#"
+        }
+    },
+    {
+        "name": "Fun Game Website",
+        "desc": "Game is a fun, brain-boosting game that improves memory, focus, and cognitive skills through interactive matching challenges.",
+        "image": "portfolio3",
+        "category": "basicweb",
+        "links": {
+            "view": "#",
+            "code": "https://github.com/Bhavanisahu0786/Project-2-Enhance-a-Memory-Match-Game"
+        }
+    }, {
+        "name": "Coffee Shop Website",
+        "desc": "coffee shop website featuring an elegant design, online menu, ordering system, customer reviews, loyalty rewards, and location details.",
+        "image": "portfolio4",
+        "category": "basicweb",
+        "links": {
+            "view": "#",
+            "code": "https://github.com/Bhavanisahu0786/innomaticsInternshipTask2"
+        }
+
+    }, {
+        "name": "Virtual-Assistant Website",
+        "desc": "coffee shop website featuring an elegant design, online menu, ordering system, customer reviews, loyalty rewards, and location details.",
+        "image": "portfolio5",
+        "category": "basicweb",
+        "links": {
+            "view": "#",
+            "code": "https://github.com/Bhavanisahu0786/Virtual-Assistant"
+        }
+
+    }
+]
